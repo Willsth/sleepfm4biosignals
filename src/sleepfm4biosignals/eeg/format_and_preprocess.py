@@ -1,10 +1,9 @@
-# © Copyright 2026 BrainCapture
-
 # from eegprep.preprocessing.finetune import FinetunePreprocessPipeline
 # from eegprep.preprocessing.description_maps import description_map
 # from eegprep.format_datasets import format_dataset
 
-# Reach out to William Lehn-Schiøler, wls@braincapture.com for collaboration and licensing.
+# Reach out to {researcher}, {email address} for collaboration and licensing.
+# Name and email address are placeholders and should be replaced with actual contact information after blinded review.
 
 import os
 from datetime import datetime
