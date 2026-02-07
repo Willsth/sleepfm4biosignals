@@ -10,7 +10,7 @@ from torch import Tensor
 from typing import Tuple, Optional, Literal, List
 import logging
 
-from models import SetTransformer, SetTransformerWithChannelPE
+from sleepfm4biosignals.sleepfm import SetTransformer, SetTransformerWithChannelPE
 
 def remove_module_from_state_dict(state_dict):
     new_state_dict = {}

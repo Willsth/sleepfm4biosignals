@@ -38,7 +38,7 @@ from torch.utils.data import Dataset, DataLoader
 
 from sklearn.metrics import roc_auc_score, accuracy_score, f1_score, recall_score, confusion_matrix, precision_recall_curve
 
-from from sleepfm4biosignals.eeg.model import SetTransformer
+from from sleepfm4biosignals.sleepfm import SetTransformer
 
 
 # -------------------------
